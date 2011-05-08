@@ -23,7 +23,7 @@ section {
 }
 
 section h1 {
-  font-size: 130%;
+  font-size: 150%;
 }
 
 /* Links */
@@ -134,4 +134,8 @@ td.sidebar {
 .profile img.gravatar {
   border: 1px solid #999;
   margin-bottom: -15px;
+}
+
+div.field, div.actions {
+  margin-bottom: 10px;
 }
